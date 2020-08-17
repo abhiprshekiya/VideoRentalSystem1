@@ -17,4 +17,22 @@ public class Video {
     private String videoName;
     private boolean checkOut;
     private int rating;
+
+    /*
+     * This method returns the name of Video selected currently
+     *
+     * @return The name of the video selected currecnt
+     * */
+
+    public String getName() {
+        return videoName;
+    }
+
+    void doCheckOut() {
+
+    }
+
+    void receiveRating() {
+
+    }
 }
