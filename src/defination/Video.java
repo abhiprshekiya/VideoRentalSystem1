@@ -32,7 +32,4 @@ public class Video {
 
     }
 
-    void receiveRating() {
-
-    }
 }
